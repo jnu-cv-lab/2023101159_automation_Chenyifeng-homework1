@@ -1,0 +1,7 @@
+模型,测试准确率
+SVM,0.9800
+Logistic Regression,0.9778
+Random Forest,0.9667
+KNN,0.9644
+Naive Bayes,0.8289
+Decision Tree,0.8244
